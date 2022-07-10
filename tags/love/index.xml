@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Love on alLeo</title>
+    <link>https://alleo888.github.io/portfolio/tags/love/</link>
+    <description>Recent content in Love on alLeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://alleo888.github.io/portfolio/tags/love/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Data Science Salary Estimator</title>
+      <link>https://alleo888.github.io/portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://alleo888.github.io/portfolio/post/project-1/</guid>
+      <description>Created a tool that estimates data science yada yada yada Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each jo description to quantify the value companies put on python excel aws and spark Optimized Linear, Lasso and Random Forest Regressors using GridsearchCV to reach the best model Built a client facing API using flask output Link to Github repository</description>
+    </item>
+    
+  </channel>
+</rss>

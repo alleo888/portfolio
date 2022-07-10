@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello World on alLeo</title>
+    <link>https://alleo888.github.io/portfolio/</link>
+    <description>Recent content in Hello World on alLeo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://alleo888.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Data Science Salary Estimator</title>
+      <link>https://alleo888.github.io/portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://alleo888.github.io/portfolio/post/project-1/</guid>
+      <description>Created a tool that estimates data science yada yada yada Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each jo description to quantify the value companies put on python excel aws and spark Optimized Linear, Lasso and Random Forest Regressors using GridsearchCV to reach the best model Built a client facing API using flask output Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Chapter III: Monsieur the Cardinal</title>
+      <link>https://alleo888.github.io/portfolio/post/project-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://alleo888.github.io/portfolio/post/project-3/</guid>
+      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
+    </item>
+    
+    <item>
+      <title>Chapter II: Pierre Gringoire</title>
+      <link>https://alleo888.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://alleo888.github.io/portfolio/post/project-2/</guid>
+      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
+“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://alleo888.github.io/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alleo888.github.io/portfolio/about/</guid>
+      <description> Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) I love Data Science! Yes! No! Love You! </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://alleo888.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alleo888.github.io/portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+Platform Twitter: https://twitter.com/FrederickLeo LinkedIn: https://www.linkedin.com/in/al-l-7b253220/ GitHub: https://github.com/alleo888/code </description>
+    </item>
+    
+  </channel>
+</rss>
